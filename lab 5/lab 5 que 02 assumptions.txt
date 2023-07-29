@@ -1,0 +1,9 @@
+1) some customers have accounts and some don't have 
+
+2) customer associates with employee
+
+3) one employee can have many customers
+
+4) one branch have many customers 
+
+5) one branch has many emplyees but one employee cannot work in many branches   
